@@ -1,6 +1,6 @@
 # ExplorerAnimation
 
-![Demo] (https://cloud.githubusercontent.com/assets/19161360/17022367/3ee60e34-4f6b-11e6-9e95-572052313521.gif)
+![Demo] (https://cloud.githubusercontent.com/assets/19161360/17022480/c5be3f9e-4f6b-11e6-990e-d65586dce067.gif)
 
 This program is written in swift language and it is my first program which is written in swift language.
 This animation like explorer section animation in iTune application.
