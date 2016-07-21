@@ -1,5 +1,7 @@
 # ExplorerAnimation
 
+![Demo] (https://cloud.githubusercontent.com/assets/19161360/17022367/3ee60e34-4f6b-11e6-9e95-572052313521.gif)
+
 This program is written in swift language and it is my first program which is written in swift language.
 This animation like explorer section animation in iTune application.
 
